@@ -17,4 +17,4 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
-![Image](https://github.com/user-attachments/assets/df955c96-212e-4706-8610-4748d709d973)
+![Image](https://github.com/user-attachments/assets/b9f6b510-5d57-4b1e-943f-c6764588c692)
