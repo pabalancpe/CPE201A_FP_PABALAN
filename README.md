@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanz Rhayven M. Pabalan</h1>
-<h3 align="center">A passionate student from T.I.P</h3>
+<h3 align="center">A passionate student from Technological Institute of The Philippines.</h3>
 
 - 🌱 I’m currently learning **C++**
 
